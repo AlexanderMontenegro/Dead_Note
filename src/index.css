@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: salmon;
+  color: rgb(10, 10, 0);
+  font-family: 'Noto Sans Sogdian','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
+
+
+
+#root {
+margin: 0 24px;
+position: relative;
+min-height: 100vh;
+}
